@@ -13,7 +13,7 @@ const About = () => {
         {/* Left: Text content */}
         <div className="text-left md:pr-4">
           <h2 className="text-5xl font-extrabold mb-6 tracking-tight leading-tight font-serif text-[#cca050] relative inline-block">
-            Hi there! I'm Austin
+            whoami
             <span className="absolute -bottom-1 left-0 w-3/4 h-1 bg-[#305c98] rounded" />
           </h2>
 
